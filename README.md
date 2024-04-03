@@ -1,5 +1,3 @@
-README
----
 
 Section | Programing Language | Project | Technologies
 --- | --- | --- | ---
